@@ -1,0 +1,25 @@
+font{
+    font-family: 'Poppins', sans-serif;
+}
+.img{
+    filter: grayscale(100%);
+    size: 100px;
+}
+.client-rating{
+    color: rgb(88, 0, 170);
+}
+.fas,.fa-star{
+    color: #E76F51;
+}
+.account-sec{
+    color: darkblue;
+}
+.form-background{
+    background-color: black;
+}
+.bg-color{
+    background-color: rgba(7, 56, 97, 0.904);
+}
+.text-color{
+    color: rgb(0, 0, 0);
+}
